@@ -1,5 +1,10 @@
 ![bannerRedes2](https://github.com/user-attachments/assets/d3002e76-e417-4917-ab81-cbaac9466ae6)
+## 📌 Contenido
 
+- [👩‍💻 Sobre mí](#-sobre-mí)
+- [💻 Tecnologías](#-tecnologías)
+- [📈 Estadísticas](#-estadísticas)
+- [📬 Contacto](#-contacto)
 
 <div align="center">
  
@@ -7,7 +12,7 @@
 </div>
 
 <div align="center">
- 
+ ## 📬 Contacto
 <a href="https://linkedin.com/in/miriam-mendieta" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
@@ -18,10 +23,10 @@
 
 </div>
 
-
+## 👩‍💻 Sobre mí
 ¡Hola! 👋 Soy Miriam, una apasionada desarrolladora de aplicaciones multiplataforma en formación, lista para reinventar mi trayectoria profesional.<br><br>Actualmente, estoy inmersa en el emocionante mundo del desarrollo de aplicaciones. Con una amplia experiencia de vida y un enfoque práctico, estoy aplicando todo lo que he aprendido para dominar las tecnologías actuales. Mi objetivo es claro: crecer, crear y aportar valor en cada proyecto que se presente.<br>
 
-## Tecnologias 💻
+## 💻 Tecnologias 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -39,7 +44,7 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 <br>
-## Las estadisticas del repositorio
+## 📈 Las estadisticas del repositorio
 <div align="center">
 
 
