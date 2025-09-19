@@ -1,17 +1,11 @@
 ![bannerRedes2](https://github.com/user-attachments/assets/d3002e76-e417-4917-ab81-cbaac9466ae6)
-## 📌 Contenido
 
-- [Sobre mí](#-sobre-mí)
-- [Tecnologías](#-tecnologías)
-- [Estadísticas](#-estadísticas)
-- [Contacto](#-contacto)
 
 <div align="center">
  
 <img src="https://github.com/user-attachments/assets/1ac25614-b275-4407-b008-866f71637a58" width="150"/>
 </div>
 
- ## 📬 Contacto
 <div align="center">
 <a href="https://linkedin.com/in/miriam-mendieta" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -23,7 +17,7 @@
 
 </div>
 
-## 👩‍💻 Sobre mí
+
 ¡Hola! 👋 Soy Miriam, una apasionada desarrolladora de aplicaciones multiplataforma en formación, lista para reinventar mi trayectoria profesional.<br><br>Actualmente, estoy inmersa en el emocionante mundo del desarrollo de aplicaciones. Con una amplia experiencia de vida y un enfoque práctico, estoy aplicando todo lo que he aprendido para dominar las tecnologías actuales. Mi objetivo es claro: crecer, crear y aportar valor en cada proyecto que se presente.<br>
 
 ## 💻 Tecnologias 
