@@ -3,7 +3,7 @@
 
 <div align="center">
  
-<img src="https://github.com/user-attachments/assets/a9eee994-0b67-4c94-99d5-bbea459e7b61" width="150"/>
+<img src="https://github.com/user-attachments/assets/1ac25614-b275-4407-b008-866f71637a58" width="150"/>
 </div>
 
 <div align="center">
@@ -17,6 +17,7 @@
 
 
 </div>
+
 
 ¡Hola! 👋 Soy Miriam, una apasionada desarrolladora de aplicaciones multiplataforma en formación, lista para reinventar mi trayectoria profesional.<br><br>Actualmente, estoy inmersa en el emocionante mundo del desarrollo de aplicaciones. Con una amplia experiencia de vida y un enfoque práctico, estoy aplicando todo lo que he aprendido para dominar las tecnologías actuales. Mi objetivo es claro: crecer, crear y aportar valor en cada proyecto que se presente.<br>
 
