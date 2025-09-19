@@ -1,7 +1,9 @@
-![bannerRedes2](https://github.com/user-attachments/assets/4722b859-d00c-43e9-89c3-3e7980ee81e9)
+![bannerRedes2](https://github.com/user-attachments/assets/d3002e76-e417-4917-ab81-cbaac9466ae6)
+
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/a9eee994-0b67-4c94-99d5-bbea459e7b61" width="150"/>
+ 
+<img src="[https://github.com/user-attachments/assets/a9eee994-0b67-4c94-99d5-bbea459e7b61](https://github.com/user-attachments/assets/c49bbc7f-c738-49d0-927a-04b659d7b6b7)" width="150"/>
 </div>
 
 <div align="center">
