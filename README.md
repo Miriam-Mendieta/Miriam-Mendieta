@@ -45,6 +45,6 @@
  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Miriam-Mendieta&icon=0&color=2)](https://visitcount.itsvg.in)
+### ✍️ Cita Dev Random 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
