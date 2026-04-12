@@ -37,27 +37,11 @@
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+[![Flutter](https://img.shields.io/badge/Flutter-3.10+-02569B?logo=flutter)](https://flutter.dev/)
+[![Dart](https://img.shields.io/badge/Dart-3.10+-0175C2?logo=dart)](https://dart.dev/)
+[![Riverpod](https://img.shields.io/badge/Riverpod-3.1-5C9EAD?logo=flutter)](https://riverpod.dev/)
+[![Firebase](https://img.shields.io/badge/Firebase-Enabled-FFCA28?logo=firebase)](https://firebase.google.com/)
 <br>
-## 📈 Las estadisticas del repositorio
-<div align="center">
-
-
- ![](https://github-contributor-stats.vercel.app/api?username=Miriam-Mendieta&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=Miriam-Mendieta&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Miriam-Mendieta&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-</div>
-
-
-##  Trofeos GitHub 
-![](https://github-profile-trophy.vercel.app/?username=Miriam-Mendieta&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-<hr>
-<div align="center">
- 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-</div>
  
 
 ---
