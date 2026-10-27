@@ -37,14 +37,15 @@
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-[![Flutter](https://img.shields.io/badge/Flutter-3.10+-02569B?logo=flutter)](https://flutter.dev/)
-[![Dart](https://img.shields.io/badge/Dart-3.10+-0175C2?logo=dart)](https://dart.dev/)
-[![Riverpod](https://img.shields.io/badge/Riverpod-3.1-5C9EAD?logo=flutter)](https://riverpod.dev/)
-[![Firebase](https://img.shields.io/badge/Firebase-Enabled-FFCA28?logo=firebase)](https://firebase.google.com/)
-![Kotlin](https://img.shields.io/badge/Kotlin-1.9+-7F52FF?logo=kotlin)
-[![Android Studio](https://img.shields.io/badge/Android_Studio-Arctic_Fox-3DDC84?logo=androidstudio)](https://developer.android.com/studio/intro)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-Enabled-4285F4?logo=jetpackcompose)
 
+![Flutter](https://img.shields.io/badge/Flutter-3.10+-02569B?style=for-the-badge&logo=flutter)
+![Dart](https://img.shields.io/badge/Dart-3.10+-0175C2?style=for-the-badge&logo=dart)
+![Riverpod](https://img.shields.io/badge/Riverpod-3.1-5C9EAD?style=for-the-badge&logo=flutter)
+![Firebase](https://img.shields.io/badge/Firebase-Enabled-FFCA28?style=for-the-badge&logo=firebase)
+
+![Kotlin](https://img.shields.io/badge/Kotlin-1.9+-7F52FF?style=for-the-badge&logo=kotlin)
+![Android Studio](https://img.shields.io/badge/Android_Studio-Arctic_Fox-3DDC84?style=for-the-badge&logo=androidstudio)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-Enabled-4285F4?style=for-the-badge&logo=jetpackcompose)
 
 <br>
  
