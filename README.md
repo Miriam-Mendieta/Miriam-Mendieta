@@ -41,6 +41,11 @@
 [![Dart](https://img.shields.io/badge/Dart-3.10+-0175C2?logo=dart)](https://dart.dev/)
 [![Riverpod](https://img.shields.io/badge/Riverpod-3.1-5C9EAD?logo=flutter)](https://riverpod.dev/)
 [![Firebase](https://img.shields.io/badge/Firebase-Enabled-FFCA28?logo=firebase)](https://firebase.google.com/)
+![Kotlin](https://img.shields.io/badge/Kotlin-1.9+-7F52FF?logo=kotlin)
+[![Android Studio](https://img.shields.io/badge/Android_Studio-Arctic_Fox-3DDC84?logo=androidstudio)](https://developer.android.com/studio/intro)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-Enabled-4285F4?logo=jetpackcompose)
+
+
 <br>
  
 
